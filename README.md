@@ -6,15 +6,18 @@ Author
 Name: Karsten De Pauw
 Student Number: 2816954
 Contact Info: k.depauw@students.uu.nl
+
 Supervisors
 1st Supervisor: Prof. Michelle van Vliet
 2nd Supervisor: Michele Magni MSc
+
 Programme Information
 MSc Programme: Earth Surface and Water
 Faculty: Faculty of Geosciences
 Department: Department of Physical Geography
 University: Utrecht University
 Description
+
 This project involves modelling the energy use of global Inter-Basin Water Transfer (IBWT) megaprojects. The R scripts provided are used to generate databases, calculate energy consumption, and visualize elevation profiles and distances for these projects.
 
 Scripts Overview
