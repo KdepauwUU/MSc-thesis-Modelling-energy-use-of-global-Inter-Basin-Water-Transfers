@@ -18,6 +18,7 @@ Description
 This project involves modelling the energy use of global Inter-Basin Water Transfer (IBWT) megaprojects. The R scripts provided are used to generate databases, calculate energy consumption, and visualize elevation profiles and distances for these projects.
 
 Scripts Overview
+
 0. R_rasterdata.R
 Purpose: Handles raster data processing and analysis for IBWT projects.
 Usage: This script includes functions to load, manipulate, and analyze raster data, such as DEM (Digital Elevation Model) data, for use in IBWT projects.
