@@ -12,11 +12,10 @@
 # Utrecht University
 
 # This R-script is developed with the assistance of ChatGPT. The assistance included:
-# - combining datasets for Inter-Basin Water transfers
-# - Calculating and visualising elevation profiles and distances
-# - Implementing interactive plots with Shiny app and ggplot
+# - combining datasets for Inter-Basin Water transfers and compiling one dataset.
+# - Fixing errors in the code.
 
-# R-script to generate a new database, append water discharge levels and calculate energy consumption
+# R-script to generate the final database
 #####################################################################################################################################################
 # Prepare Your Environment in R
 #setwd(Z:/R studio - Thesis/Rstudio/output) #not necessary right now as already loaded
